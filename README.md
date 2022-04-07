@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Demo](./Demo/AJShimmeringSliderViewDemo.gif)
+![Demo](./Demo/ajShimmeringSliderViewDemo.gif)
 
 ## About The Project
 
